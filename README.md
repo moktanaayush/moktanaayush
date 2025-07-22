@@ -20,6 +20,15 @@ Currently focused on building machine learning solutions and intelligent systems
 **Data**: Pandas, NumPy, Power BI, Tableau, Plotly  
 **Tools**: Git, Docker, VSCode, Jupyter, Postgres
 
+**Data Analysis & Processing**: SQL, Python, R, Excel, C++, Java, Bash
+**Visualization Tools**: Power BI, Tableau, Matplotlib, Seaborn, Report Builder, Alteryx, Plotly
+**Machine Learning & Statistics**: Scikit-learn, XGBoost, PyTorch, TensorFlow, Regression & Forecasting Models, Transformers, Hugging Face, Deep Learning, NLP, Hypothesis Testing, OpenCV, YOLO, LLM, RAG
+**Data Wrangling & ETL**: SQL, PySpark, Snowflake, Hadoop, APIs, Hive, Pig, NoSQL (MongoDB), Big Data
+**Cloud & Infrastructure**: AWS, Docker, REST APIs, WebSocket
+**Collaboration & Communication**: Report writing, stakeholder communication, presentation skills, Teamwork
+**Version Control**: Git
+
+
 ---
 
 ## 🚀 Featured Projects
