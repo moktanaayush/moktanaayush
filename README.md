@@ -15,11 +15,6 @@ Currently focused on building machine learning solutions and intelligent systems
 
 ## Tech Stack & Tools
 
-**Languages**: Python, SQL, JavaScript  
-**ML & AI**: TensorFlow, Scikit-learn, NLP, LSTM, LangChain  
-**Data**: Pandas, NumPy, Power BI, Tableau, Plotly  
-**Tools**: Git, Docker, VSCode, Jupyter, Postgres
-
 **Data Analysis & Processing**: SQL, Python, R, Excel, C++, Java, Bash
 **Visualization Tools**: Power BI, Tableau, Matplotlib, Seaborn, Report Builder, Alteryx, Plotly
 **Machine Learning & Statistics**: Scikit-learn, XGBoost, PyTorch, TensorFlow, Regression & Forecasting Models, Transformers, Hugging Face, Deep Learning, NLP, Hypothesis Testing, OpenCV, YOLO, LLM, RAG
