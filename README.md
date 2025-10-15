@@ -28,7 +28,7 @@ Currently focused on building machine learning solutions and intelligent systems
 
 ## 🚀 Featured Projects
 
-### 📈 [Stock Market Prediction (LSTM)](https://github.com/aayushmoktan/stock-market-lstm)
+### 📈 [Stock Market Prediction (LSTM)](https://github.com/moktanaayush/Stock_Market_Prediction)
 Predicting future stock prices of Nabil Bank using deep learning.
 
 ### 📄 [Resume Analyzer (NLP)](https://github.com/aayushmoktan/resume-analyzer)
