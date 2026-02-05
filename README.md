@@ -1,46 +1,60 @@
 # 👋 Hi, I'm Aayush Moktan
+**Process & Reliability Engineer | Applied AI Specialist**  
+*Mississauga, ON, Canada 🇨🇦*
 
-Applied AI Solutions Development, George Brown College  
-Data Scientist | AI Engineer | Software Developer  
-Based in Canada | Open to co-op and full-time roles
-
----
-
-## About Me
-
-I’m a data-driven problem solver with 3+ years of experience in software development, data engineering, and automation.  
-Currently focused on building machine learning solutions and intelligent systems using Python, SQL, and deep learning.
+I am a reliability-focused technology professional with 4+ years of experience bridging the gap between **Software Engineering, SaaSOps, and Applied AI.** I specialize in building "human-first" automation and intelligent systems that reduce operational toil, improve system reliability (MTTR), and drive engineering excellence.
 
 ---
 
-## Tech Stack & Tools
-
-**Data Analysis & Processing**: SQL, Python, R, Excel, C++, Java, Bash
-**Visualization Tools**: Power BI, Tableau, Matplotlib, Seaborn, Report Builder, Alteryx, Plotly
-**Machine Learning & Statistics**: Scikit-learn, XGBoost, PyTorch, TensorFlow, Regression & Forecasting Models, Transformers, Hugging Face, Deep Learning, NLP, Hypothesis Testing, OpenCV, YOLO, LLM, RAG
-**Data Wrangling & ETL**: SQL, PySpark, Snowflake, Hadoop, APIs, Hive, Pig, NoSQL (MongoDB), Big Data
-**Cloud & Infrastructure**: AWS, Docker, REST APIs, WebSocket
-**Collaboration & Communication**: Report writing, stakeholder communication, presentation skills, Teamwork
-**Version Control**: Git
-
+### 🚀 Professional Focus
+- 🛠 **SaaS Operations:** Improving production readiness and incident response frameworks.
+- 🤖 **Applied AI:** Leveraging LLMs, RAG, and NLP to automate complex engineering workflows.
+- 📈 **Observability:** Building interactive data pipelines to track mission-critical system health.
+- ⚡ **Automation:** Eliminating toil through Python, PowerShell, and RPA.
 
 ---
 
-## 🚀 Featured Projects
+### 🛠 Tech Stack & Tools
 
-### 📈 [Stock Market Prediction (LSTM)](https://github.com/moktanaayush/Stock_Market_Prediction)
-Predicting future stock prices of Nabil Bank using deep learning.
-
-### 📄 [Resume Analyzer (NLP)](https://github.com/aayushmoktan/resume-analyzer)
-An NLP-based tool to match resumes with job descriptions.
-
-### 📊 [COVID-19 Vaccination Tracker](https://github.com/aayushmoktan/covid-vaccine-viz)
-Interactive dashboard showing global progress using Plotly.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (Pandas/NumPy), SQL, Java, C++, TypeScript, PowerShell, Bash |
+| **Cloud & DevOps** | Microsoft Azure, AWS, Kubernetes (AKS), Docker, CI/CD, Terraform, GitHub Actions |
+| **Data & Observability** | Plotly, Matplotlib, Power BI, Tableau, ELK Stack, Snowflake, PySpark |
+| **AI & Machine Learning** | LLMs (Hugging Face), RAG, NLP, PyTorch, TensorFlow, Scikit-learn, OpenCV |
+| **Frameworks** | SRE Fundamentals, ITIL v4, Agile/Scrum, DevOps, Platform Engineering |
 
 ---
 
-## Contact Me
+### 📊 Featured Projects
 
-📧 aayush.moktan1116@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/aayushmoktan)  
-💻 [Portfolio Projects](https://github.com/aayushmoktan?tab=repositories)
+#### [🌐 Covid-19 Vaccination Tracker](https://github.com/moktanaayush/Covid-19-Vaccination-Progress)
+**Focus:** *Healthcare Data Observability*  
+Developed an automated data pipeline and interactive dashboard using **Plotly and Python**. Conducted time-series analysis on global vaccination data to identify regional trends and anomalies, simulating the monitoring of high-stakes SaaS datasets.
+
+#### [📈 Stock Market Prediction (LSTM)](https://github.com/moktanaayush/Stock_Market_Prediction)
+**Focus:** *Predictive Reliability*  
+Engineered a deep learning model (LSTM) using **TensorFlow and Scikit-learn** to forecast market trends. Applied predictive logic to simulate resource planning and risk-aware change management in mission-critical environments.
+
+#### [📄 Resume Analyzer (NLP)](https://github.com/moktanaayush/Resume-Match-NLP)
+**Focus:** *Intelligent Process Automation*  
+Built an AI-driven tool using **Transformers and Hugging Face** to automate the evaluation of unstructured documents against specific criteria, significantly reducing manual review time for complex requirements.
+
+#### [🤖 RPA Automation for KYC](https://github.com/moktanaayush)
+**Focus:** *Operational Toil Reduction*  
+Automated high-volume compliance workflows using **UiPath and Python**, reducing manual processing time by **40%** while ensuring 100% adherence to regulatory standards.
+
+---
+
+### 📈 GitHub Stats
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=moktanaayush&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moktanaayush&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+- 💼 [LinkedIn](https://linkedin.com/in/aayushmoktan)
+- 📧 [aayush.moktan1116@gmail.com](mailto:aayush.moktan1116@gmail.com)
+- 🌎 [Portfolio Website](https://github.com/moktanaayush/Portfolio)
+
+*"I believe in using AI as a catalyst for creativity and productivity, building a smarter, human-first future for healthcare and technology."*
