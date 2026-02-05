@@ -6,15 +6,15 @@ I am a reliability-focused technology professional with 4+ years of experience b
 
 ---
 
-### 🚀 Professional Focus
-- 🛠 **SaaS Operations:** Improving production readiness and incident response frameworks.
-- 🤖 **Applied AI:** Leveraging LLMs, RAG, and NLP to automate complex engineering workflows.
-- 📈 **Observability:** Building interactive data pipelines to track mission-critical system health.
-- ⚡ **Automation:** Eliminating toil through Python, PowerShell, and RPA.
+### Professional Focus
+- **SaaS Operations:** Improving production readiness and incident response frameworks.
+- **Applied AI:** Leveraging LLMs, RAG, and NLP to automate complex engineering workflows.
+- **Observability:** Building interactive data pipelines to track mission-critical system health.
+- **Automation:** Eliminating toil through Python, PowerShell, and RPA.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -58,3 +58,4 @@ Automated high-volume compliance workflows using **UiPath and Python**, reducing
 - 🌎 [Portfolio Website](https://github.com/moktanaayush/Portfolio)
 
 *"I believe in using AI as a catalyst for creativity and productivity, building a smarter, human-first future for healthcare and technology."*
+
